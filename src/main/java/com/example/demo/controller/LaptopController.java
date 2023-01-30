@@ -5,7 +5,6 @@ import com.example.demo.repository.LaptopRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 public class LaptopController {
